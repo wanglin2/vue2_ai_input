@@ -1,0 +1,23 @@
+{
+  "name": "@wanglin1994/ai-input",
+  "version": "0.1.0",
+  "description": "一个基于Vue2的AI输入框组件。",
+  "main": "index.js",
+  "scripts": {},
+  "authors": [
+    {
+      "name": "街角小林",
+      "email": "1013335014@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanglin2/vue2_ai_input"
+  },
+  "dependencies": {},
+  "keywords": [
+    "ai",
+    "input"
+  ]
+}
