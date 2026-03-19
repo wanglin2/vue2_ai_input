@@ -46,7 +46,7 @@
         <template v-if="showHeaderFlag" #header>
           <div class="header-self-wrap">
             <div class="header-self-title">
-              <div class="header-left">💯 欢迎使用 Hui X</div>
+              <div class="header-left">💯 欢迎使用 Ai-input</div>
               <div class="header-right">
                 <el-button @click.stop="showHeaderFlag = false">
                   <el-icon><CircleClose /></el-icon>
